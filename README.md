@@ -1,13 +1,19 @@
-# Epic-IntroWk3-Groceries
-Epicodus Intro to Programming Week 3 Pair Project with Angie Smith: Web page that builds a shopping list to practice looping with JavaScript and jQuery. 
+# Grocery List
+Version 0.0.1: August 15, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io) and [Angela Smith](https://github.com/avksmit2)
 
-## Technologies Used
-HTML, CSS
+### Technologies Used
+HTML, CSS, Bootstrap, JavaScript, jQuery
+
+![screenshot of project running](screenshot.png)
+
+## Description
+*[Epicodus](http://epicodus.com) Intro to Programming Week 3 Pair Project with Angie Smith: A web page that builds a shopping list to practice looping with JavaScript and jQuery.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* [View on Github Pages](https://karenfreemansmith.github.io/Epic-IntroWk3-Groceries)
 * _OR_
-* Clone diectory 
+* Clone directory
 * Open index.html in your favorite browser
 
 ## Support & Contact
@@ -19,4 +25,4 @@ For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 ## Legal
 *Licensed under the GNU General Public License v3.0*
 
-Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io)_ All Rights Reserved.
+Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io) & [Angela Smith](https://github.com/avksmit2)_ All Rights Reserved.
